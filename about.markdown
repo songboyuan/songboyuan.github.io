@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+一直想要建立一个博客，考虑过网站提供的博客，也考虑过用微信公众号来承载，但都因为种种原因没有行动。直到2020年在网上发现GitHub Pages, 需要少许的技术背景就可以建立一个还算不错的博客。
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+方案确定了，拖延症又犯了，一直拖拖拉拉。同时生活当中出了比较大的问题，变得无暇顾及这件事情。一转眼时间已经到了2022年国庆节，之前的Cayman theme的博客框架不好用了。从零开始就用最简单的Minima搭建了博客。
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+这两年经历了很多的人生大事，愿我的喃喃自语能够被你看见。通过网络相见，也是莫大的缘分。
 
 
-[jekyll-organization]: https://github.com/jekyll
+2022-9-26
